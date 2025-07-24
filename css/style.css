@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(255, 222, 218);
+}
+
+ol{
+    color: azure;
+    background-color: black;
+}
+
+
+h1{
+    color: blueviolet;
+}
+.heading-h1{
+    color: red; 
+    background-color: aqua;
+}
+.heading-h1-white{
+    color: white;
+}
+.navbar{
+    color: orange;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style:lower-roman;
+}
+
+.navbar,
+.heading-h1{
+    color: yellowgreen;
+}
+.navbar:hover{
+    background-color: aqua;
+    color: red;
+    font-size: 30px;
+
+}
+.enlace-google{
+    text-decoration: none;
+}
